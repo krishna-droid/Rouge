@@ -52,7 +52,7 @@ ng serve
 ```
 ## Backend 
 ```bash
-cd backend
+cd backend-server
 npm install
 npm run start 
 ```
