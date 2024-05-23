@@ -31,6 +31,9 @@ Requires users to accept terms of use, ensuring compliance with the General Data
 
 Setup Instructions
 Prerequisites
+<img width="1440" alt="Screenshot 2024-05-23 at 07 51 54" src="https://github.com/krishna-droid/Rouge/assets/55031448/ea28758a-cbcb-453e-93e7-f9f8a5baefd7">
+<img width="1440" alt="Screenshot 2024-05-23 at 07 52 02" src="https://github.com/krishna-droid/Rouge/assets/55031448/ef079eaa-ccb2-4592-9ef3-fa37c80218a8">
+<img width="1440" alt="Screenshot 2024-05-23 at 07 52 20" src="https://github.com/krishna-droid/Rouge/assets/55031448/0e5700df-2a1c-4ae9-b369-b0e6742d27c4">
 
 Install Node.js and npm (Node Package Manager)
 
